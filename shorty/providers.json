@@ -1,0 +1,14 @@
+{
+    "bit.ly": {
+        "authtoken": "f0b797a8ff151ff503c47f5f55d90c0decbdf80d",
+        "groupguid": "Bm5fmN29iuk",
+        "providerurl": "https://api-ssl.bitly.com/v4/shorten",
+        "isdefault": false
+
+    },
+    "tinyurl.com": {
+        "providerurl": "http://tinyurl.com/api-create.php?url=http://",
+        "isdefault": true
+
+    }
+}
